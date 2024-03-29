@@ -65,7 +65,7 @@
 </div>
 
 </br>
-   
-<h2>🎵 Playing On Spotify<h2>  
 
+<h2>🎵 Playing On Spotify<h2>  
+</br>
 ![spotify-github-profile](/img/default.svg)  
