@@ -68,5 +68,5 @@
    
 <h2>🎵 Playing On Spotify<h2>  
 
-![spotify-github-profile](/img/default.svg)
+![spotify-github-profile](/img/default.svg](https://github.com/kittinan/spotify-github-profile/blob/master/img/default.svg)
   
