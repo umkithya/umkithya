@@ -60,8 +60,6 @@
      
   </br>
    <div>      
-  <img height="200" width="450" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaqdeff&show_icons=true&theme=gruvbox" alt="Shaq's GitHub Stats"/>
-  <img height="200" width="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaqdeff&theme=gruvbox&layout=compact"/>
 </div>
 
 </br>
