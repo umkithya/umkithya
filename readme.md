@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Kithya!+🇰🇭;Nice+to+meet+you!+🫡&center=true&size=32&color=002D62">
 </h1>
-<h3 align="center">A flutter developer.</h3>
+<h3 align="center">A Flutter Developer.</h3>
 
 <p align="center">I'm a full stack software engineer, and also an audio engineer. I enjoy making web applications and music as they both require a lot of creativity, and there's no limits to what you can do. I yearn to always learn more to become a better programmer and version of myself.</p>
 
@@ -14,21 +14,17 @@
 
 - 👥   I'm open to collaborations and work. Feel free to reach out to me if you have a project you'd like me on.
 
-- 🥷🏽   I'm currently doing projects using the **MERN Stack**.
+- 🥷🏽   I'm currently doing a few projects using the **PERN Stack** and the **Flutter Framework**.
 
-- 🗓   Ask me about **JavaScript**, **React.js**, and **Ruby**.
+- 🗓   Ask me about **JavaScript**, **Next.js**, and **Flutter**.
 
-- 💻   You can view all **my projects** by clicking on this [link](https://github.com/shaqdeff?tab=repositories). Feel free to open an issue in any project if you spot a bug and I will try to fix it as soon as possible.
 
  <h2>📲  Let's Connect<h2>
- <a href="https://twitter.com/shaquillendunda">
-  <img align="left" alt="Shaquille Ndunda Twitter" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/twitter.png" />
+ <a href="https://www.linkedin.com/in/um-kithya">
+  <img align="left" alt="Um Kithya Linkedin" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/linkedin.png" />
  </a>
- <a href="https://www.linkedin.com/in/shaquille-ndunda-b13a95107/">
-  <img align="left" alt="Shaquille LinkedIn" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/linkedin.png" />
- </a>
- <a href="https://www.instagram.com/shaqdeffonit/">
-  <img align="left" alt="Shaq Instagram" height="24px" src="https://raw.githubusercontent.com/shaqdeff/shaqdeff/main/instagram.png" />
+ <a href="https://t.me/umkithya">
+  <img align="left" alt="Um Kithya Telegram" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" />
    </a>
 </br>
  
