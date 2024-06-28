@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">A Flutter Developer.</h3>
 
-<p align="center">I'm a full stack software engineer, and also an audio engineer. I enjoy making web applications and music as they both require a lot of creativity, and there's no limits to what you can do. I yearn to always learn more to become a better programmer and version of myself.</p>
+<p align="center">I'm a Full Stack Software Engineer, and Senior Flutter Developer. I enjoy making web applications and mobile applications as they both require a lot of creativity, and there's no limits to what you can do. I yearn to always learn more to become a better programmer and version of myself.</p>
 
 
 ---
